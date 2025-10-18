@@ -1,51 +1,32 @@
-# Vegetable-Image-Classification-with-machine-learning
-A machine learning model that tells what kind of vegetable it is with accuracy 
+# 🥦 Vegetable Image Classification with Machine Learning
 
-Project Overview
-This project implements a convolutional neural network (CNN) to classify vegetable images into 15 categories:
+A machine learning project that identifies the **type of vegetable** in an image using a **Convolutional Neural Network (CNN)** — delivering accurate and reliable results.
 
-Bean
-Bitter_Gourd
-Bottle_Gourd
-Brinjal
-Broccoli
-Cabbage
-Capsicum
-Carrot
-Cauliflower
-Cucumber
-Papaya
-Potato
-Pumpkin
-Radish
-Tomato
+---
 
-Dataset Structure
-The dataset is organized in the following directory structure:
+## 📘 Project Overview
+This project implements a CNN-based image classifier capable of recognizing **15 types of vegetables**:
 
-text
-Vegetable_Images/
-├── train/          # Training images (1000 images per class)
-├── test/           # Test images (200 images per class)
-└── validation/     # Validation images (200 images per class)
-Prerequisites
-Before running this project, ensure you have the following installed:
+| # | Vegetable Name |
+|---|----------------|
+| 1 | Bean |
+| 2 | Bitter Gourd |
+| 3 | Bottle Gourd |
+| 4 | Brinjal |
+| 5 | Broccoli |
+| 6 | Cabbage |
+| 7 | Capsicum |
+| 8 | Carrot |
+| 9 | Cauliflower |
+|10 | Cucumber |
+|11 | Papaya |
+|12 | Potato |
+|13 | Pumpkin |
+|14 | Radish |
+|15 | Tomato |
 
-Python Libraries
-TensorFlow
-TensorFlow Hub
-NumPy
-Pandas
-Matplotlib
-scikit-learn
-Pillow (PIL)
+---
 
-Installation
-bash
-pip install tensorflow tensorflow-hub numpy pandas matplotlib scikit-learn pillow
-Project Setup
-Clone the repository or download the notebook file
+## 🗂️ Dataset Structure
+The dataset follows this directory organization:
 
-Extract the dataset from the provided zip file archive (2).zip
-
-Ensure the directory structure matches the expected format
