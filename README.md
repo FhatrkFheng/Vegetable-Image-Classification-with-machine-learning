@@ -62,6 +62,8 @@ pip install tensorflow tensorflow-hub numpy pandas matplotlib scikit-learn pillo
 Install the dataset on this link provided.
 https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 
+NOTE: The dataset must be in the same directory from the project folder
+
 ## ⚙️ Project Setup
 
 1. **Clone the repository** or **download the notebook file**
